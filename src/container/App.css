@@ -1,0 +1,84 @@
+html{
+  background: url(background.gif) no-repeat center center fixed;
+  background-size: cover;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 35vmin;
+  pointer-events: none;
+  position: relative;
+  bottom: 30px;
+  margin-top: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-swing infinite 15s both;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-swing {
+  20% { transform: rotate(15deg); } 
+  40% { transform: rotate(-10deg); } 
+  60% { transform: rotate(5deg); } 
+  80% { transform: rotate(-5deg); } 
+  100% { transform: rotate(0deg); } 
+}
+.title{
+  margin:10px 5px 40px 5px;
+  font-size: 6.5vmin;
+}
+.quote-box{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 90%;
+  box-sizing: border-box;
+  border-radius:50px 110px 50px 110px;
+  padding: 10px 15px 10px 10px;
+  margin:25px 0px 10px 0px;
+  font-size: 4vmin;
+  border-left: 3px solid white;
+  border-bottom: 3px solid white;
+}
+.quote-content{
+  padding: 15px 30px 15px 15px;
+}
+.author{
+  text-align: right;
+}
+.new-quote{
+  background-color: rgba(104, 104, 104, 0.4);
+  box-shadow: inset 0 0 15px black;
+  position: relative;
+  top:15px;
+  padding: 10px;
+  font-size: 3vmin;
+  font-family: 'Cinzel', serif;
+  font-weight: bolder;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.new-quote:hover{
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: inset 0 0 15px rgb(0, 0, 0);
+  transform:scale(1.1);
+}
