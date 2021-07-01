@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Random-Quotes/static/css/main.772e384f.chunk.css",
+    "main.js": "/Random-Quotes/static/js/main.e56cc40d.chunk.js",
+    "main.js.map": "/Random-Quotes/static/js/main.e56cc40d.chunk.js.map",
+    "runtime-main.js": "/Random-Quotes/static/js/runtime-main.a53d32e2.js",
+    "runtime-main.js.map": "/Random-Quotes/static/js/runtime-main.a53d32e2.js.map",
+    "static/js/2.ff1ebafb.chunk.js": "/Random-Quotes/static/js/2.ff1ebafb.chunk.js",
+    "static/js/2.ff1ebafb.chunk.js.map": "/Random-Quotes/static/js/2.ff1ebafb.chunk.js.map",
+    "static/js/3.da7700e2.chunk.js": "/Random-Quotes/static/js/3.da7700e2.chunk.js",
+    "static/js/3.da7700e2.chunk.js.map": "/Random-Quotes/static/js/3.da7700e2.chunk.js.map",
+    "index.html": "/Random-Quotes/index.html",
+    "static/css/main.772e384f.chunk.css.map": "/Random-Quotes/static/css/main.772e384f.chunk.css.map",
+    "static/js/2.ff1ebafb.chunk.js.LICENSE.txt": "/Random-Quotes/static/js/2.ff1ebafb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Random-Quotes/static/media/background.d8b1b035.gif",
+    "static/media/hat.c55676e8.gif": "/Random-Quotes/static/media/hat.c55676e8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a53d32e2.js",
+    "static/js/2.ff1ebafb.chunk.js",
+    "static/css/main.772e384f.chunk.css",
+    "static/js/main.e56cc40d.chunk.js"
+  ]
+}
