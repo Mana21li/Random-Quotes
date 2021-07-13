@@ -39,11 +39,7 @@
   100% { transform: rotate(0deg); } 
 }
 .title{
-<<<<<<< HEAD
-  margin:5px 5px 10px 5px;
-=======
-  margin:10px 5px 40px 5px;
->>>>>>> 9ff3073d4c4ab74bc9fe0b1a3ecddddd292a25af
+  margin: 10px 5px 40px 5px;
   font-size: 5.5vmin;
 }
 .quote-box{
